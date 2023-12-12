@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Delivery Associate/warehouse Loader",
+    "organisation": "Amazon",
+    "startDate": "October, 2023",
+    "endDate": "Present",
+    "experiences": ["Loaded trucks with Amazon packages and delivered packages around the city"],
+    "imageSrc": "history/amazon.png"
+  },
+  {
+    "role": "Survey Technician",
+    "organisation": "Anik Inc",
+    "startDate": "February 2023",
+    "endDate": "June 2023",
+    "experiences": [
+      "Issued Surveys to passengers.",	
+    "Encouraged passengers aboard Train or Bus to take Survey"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Data Analyst",
+    "organisation": "Valxon IT services",
+    "startDate": "February 2021",
+    "endDate": "April 2021",
+    "experiences": [
+      "Performed Data Analysis on CSV Files through Python utilizing multiple Import Libraries,",
+      "Extracted Data from multiple sources to compile and utilize the useful information"],
+      "imageSrc": "history/DataAnalytics.jpeg"
+  }
+]
